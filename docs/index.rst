@@ -7,7 +7,7 @@ In a world where digital threats are becoming more advanced by the day, keeping 
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/kaspersky-login
+   :target: https://accuratelivechat.com
 
 
   
