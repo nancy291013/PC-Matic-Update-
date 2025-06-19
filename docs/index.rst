@@ -3,11 +3,13 @@ How to Update PC Matic?
 
 In a world where digital threats are becoming more advanced by the day, keeping your antivirus software updated is just as important as installing it in the first place. If you're using **PC Matic**—a trusted antivirus and performance optimization tool—you’re already ahead of the curve. But like all security software, PC Matic is only as strong as its most recent update.
 
-.. image::https://how-to-update-thunderbird.readthedocs.io/en/latest/_images/click-update.png
+.. image:: https://how-to-update-thunderbird.readthedocs.io/en/latest/_images/click-update.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://accuratelivechat.com
+   :target: https://aclogportal.com/kaspersky-login
+
+
   
 This guide will walk you through everything you need to know about *how to update PC Matic*. Whether you’re new to the software or simply want to make sure you're fully protected, this article has got you covered in plain, easy-to-follow language.
 
